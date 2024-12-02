@@ -1,0 +1,20 @@
+{
+  "name": "comprehensiveproject",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.7.8",
+    "cheerio": "^1.0.0",
+    "dotenv": "^16.4.5"
+  }
+}
